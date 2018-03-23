@@ -119,10 +119,6 @@ table tfoot td {
 .clearfix::after {
   clear: both;
 }
-a {
-  color: black;
-  text-decoration: none; /* no underline */
-}
 
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';

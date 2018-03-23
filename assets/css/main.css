@@ -1446,8 +1446,3 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
-
-a {
-  color: black;
-  text-decoration: none; /* no underline */
-}
